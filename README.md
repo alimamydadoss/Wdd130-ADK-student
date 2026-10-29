@@ -13,7 +13,7 @@
          </nav>
        </header>
        <main>
-         <h1> Alimamy Dadoss | WDD 130</h1>
+         <h1> Alimamy_Dadoss | WDD 130</h1>
          <img src="images/kamara.jpg" alt="Alimamy Dadoss Profile Pictures "width="200">
          <p> Hello! My name is Alimamy Dadoss Kamara from Freetown Sierra Leone. 
          I hate it when people taking advantage on others. Therefore, i enjoy helping others having their right.
