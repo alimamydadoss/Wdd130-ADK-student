@@ -27,5 +27,5 @@
          </p>
        </main>
        <footer>
-         <p>© 2025 Alimamy Dadoss Kamara. Freetown, Sierra Leone</p>
+         <p>© 2026 Alimamy Dadoss Kamara. Freetown, Sierra Leone</p>
        </footer>
